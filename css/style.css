@@ -40,3 +40,15 @@ body {
     justify-content: center;
   }
 
+  h2 {
+    text-align: center;
+  }
+
+.col {
+   text-align: center; 
+}
+.card img{
+    padding: 0px 30px 30px 30px;
+    height: 400px;
+    width: auto;
+}
