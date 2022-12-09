@@ -22,3 +22,20 @@ body {
 .nav-item {
     margin: 0px  15px;
 }
+/* Styling Hero/jumbotron section */
+.jumboMini {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: center;
+  }
+  .jumbotron {
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
