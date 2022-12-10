@@ -3,7 +3,7 @@
 /* styling body */
 body {
     /* background-image: url("../images/bodybackground.png"); */
-    background-color: grey;
+    background-color: #CECCCC;
 }
 
 /* styling of Nav */
@@ -51,11 +51,13 @@ body {
 }
 
 .jumboBackground {
-    background-image: url("../images/ZODUMO.png");
+    background-image: url("../images/waterfallBanner.jpg");
 }
 
 .portrait {
-
+border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+margin-right:200px;
 }
 
 #about-content {
