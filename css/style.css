@@ -1,10 +1,10 @@
-
 /* roof for all variables */
 
 /* styling body */
 body {
     background-image: url("../images/bodybackground.png");
 }
+
 /* styling of Nav */
 .myNav {
     position: fixed;
@@ -20,8 +20,9 @@ body {
 }
 
 .nav-item {
-    margin: 0px  15px;
+    margin: 0px 15px;
 }
+
 /* Styling Hero/jumbotron section */
 .jumboMini {
     width: 70%;
@@ -29,26 +30,51 @@ body {
     max-width: 700px;
     color: white;
     text-align: center;
-  }
-  .jumbotron {
-    background-image: url("../images/ZodumoBanner.png");
+}
+
+.jumbotron {
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 25px);
     display: flex;
     align-items: center;
     justify-content: center;
-  }
+}
 
-  h2 {
+.btn {
+    background-color: paleturquoise;
+}
+
+.jumboBackground {
+    background-image: url("../images/ZODUMO.png");
+}
+
+.portrait {
+    border-radius: 50%;
+}
+
+#about-content {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h2 {
     text-align: center;
-  }
+}
 
 .col {
-   text-align: center; 
+    text-align: center;
 }
-.card img{
+
+.card img {
     padding: 0px 30px 30px 30px;
     height: 400px;
     width: auto;
+}
+
+/*  */
+
+#contact {
+   text-align: center; 
+   justify-content: center;
 }
