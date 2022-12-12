@@ -19,11 +19,7 @@ body {
     margin-left: auto;
     margin-right: 0 !important;
 }
-
-.nav-item {
-    margin: 0px 15px;
-}
-
+ 
 /* Styling Hero/jumbotron section */
 .jumboMini {
     width: 70%;
