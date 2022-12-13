@@ -19,7 +19,7 @@ body {
     margin-left: auto;
     margin-right: 0 !important;
 }
- 
+
 /* Styling Hero/jumbotron section */
 .jumboMini {
     width: 70%;
@@ -34,16 +34,17 @@ body {
     background-repeat: no-repeat;
     height: calc(100vh - 25px);
     display: flex;
-    align-items:center; 
-    justify-content:center;
-    
+    align-items: center;
+    justify-content: center;
+
 }
 
 .btn {
-   font-size: 20px; 
-   background-color: pink;
-   margin: top 60px;;
-   
+    font-size: 20px;
+    background-color: pink;
+    margin: top 60px;
+    ;
+
 }
 
 .jumboBackground {
@@ -51,15 +52,14 @@ body {
 }
 
 .portrait {
-border-top-left-radius: 50%;
-border-top-right-radius: 50%;
-margin-right:200px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border: 2px solid black;
+    padding: 0;
+    margin: 2rem;
+    width: 200px;
 }
 
-#about-content {
-    font-weight: bold;
-    font-size: 20px;
-}
 
 h2 {
     text-align: center;
@@ -79,13 +79,14 @@ h2 {
 
 
 /* Styling for the Contact Me section */
-.contact-form form{
+.contact-form form {
     width: 100%;
     margin-top: 5%;
     margin-bottom: 10%;
-  }
-  
-  form input, form textarea{
+}
+
+form input,
+form textarea {
     width: 100%;
     border: 0;
     outline: none;
@@ -95,39 +96,41 @@ h2 {
     color: black;
     font-size: 18px;
     border-radius: 6px;
-  }
-  
-  form .btn2{
+}
+
+form .btn2 {
     padding: 14px 60px;
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
-    background-color: #007bff;
+    background-color: pink;
     color: white;
     text-decoration: none;
-  }
+}
+
 /* styling of Footter individual icons in the contact me section */
 
-footer{
+footer {
     background: paleturquoise;
     width: 100%;
     text-align: center;
     padding: 10px;
     font-weight: 300;
-  }
-  
-  .ftext{
-      color: white;
-  }
-  
-  footer i{
-      font-size: 20px !important;
-      color: white;
-  }
-  
-  .wrapper{
-      display:inline-flex;
-  }
+}
+
+.ftext {
+    color: white;
+}
+
+footer i {
+    font-size: 20px !important;
+    color: white;
+}
+
+.wrapper {
+    display: inline-flex;
+}
+
 /* #contact {
     display: flex;
     text-align: center;
@@ -143,7 +146,7 @@ footer{
     margin-top: 100px;
 } */
 
- .fa-linkedin {
+.fa-linkedin {
     color: #3B5998;
     font-size: 100px;
 }
@@ -161,4 +164,4 @@ footer{
 span {
     color: #d87093;
     size: 20px;
-} 
+}
