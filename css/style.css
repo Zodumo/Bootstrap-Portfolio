@@ -150,6 +150,10 @@ footer i {
     box-shadow: 10px 5px 5px;
 }
 
+footer i:hover {
+    border: 2px solid fuchsia;
+}
+
 .wrapper {
     display: inline-flex;
 }
