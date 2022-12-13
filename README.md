@@ -11,4 +11,4 @@ To make the most of this portfolio, you are encourage to explore each section wh
 ## Deployed Visual
 
 Once this link https://zodumo.github.io/Bootstrap-Portfolio/ has been clicked, please expect this landing page: 
-![alt text](../Bootstrap-Portfolio/images/full%20screenshot%20of%20portfolio.png)
+![alt text](./images/fullscreenshotofportfolio.png)
